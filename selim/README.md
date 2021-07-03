@@ -8,3 +8,6 @@
 
 ### 버킷 
 - [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) lv.3
+
+### 재귀 
+- [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) lv.2
