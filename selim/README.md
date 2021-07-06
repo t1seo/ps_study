@@ -11,3 +11,6 @@
 
 ### 재귀 
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) lv.2
+
+### 해시 
+- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) lv.1
