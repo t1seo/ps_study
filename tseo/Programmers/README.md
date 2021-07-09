@@ -9,6 +9,9 @@
 - [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644?language=python3) / [풀이](https://velog.io/@t1won/Level-1-%EB%91%90-%EA%B0%9C-%EB%BD%91%EC%95%84%EC%84%9C-%EB%8D%94%ED%95%98%EA%B8%B0)
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) / [풀이](https://velog.io/@t1won/Level-1-%EA%B0%80%EC%9A%B4%EB%8D%B0-%EA%B8%80%EC%9E%90-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 - [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) / [풀이](https://velog.io/@t1won/Level-1-%ED%8F%89%EA%B7%A0-%EA%B5%AC%ED%95%98%EA%B8%B0)
+- [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=python3) / [풀이](https://velog.io/@t1won/Level-1-2016%EB%85%84)
+- [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) / [풀이](https://velog.io/@t1won/Level-1-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%EC%A0%95%EC%88%98%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+- [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) / [풀이](https://velog.io/@t1won/Level-1-%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
 
 ## SQL
 - HackerRank
