@@ -7,10 +7,19 @@
 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) lv.2
 
 ### 버킷 
-- [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) lv.3
+- [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) lv.1
 
 ### 재귀 
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) lv.2
 
 ### 해시 
+<<<<<<< HEAD
 - [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) lv.1
+=======
+- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) lv.1 
+
+### 기타 
+- [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) lv.1
+- [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) lv.1
+
+>>>>>>> 15e253b457be79a9fece05a6e0c6cb50e3e655ec

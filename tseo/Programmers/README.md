@@ -6,6 +6,9 @@
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) / [풀이](https://velog.io/@t1won/Level-1-%EC%B2%B4%EC%9C%A1%EB%B3%B5)
 - [직사각형 별 찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) / [풀이](https://velog.io/@t1won/Level-1-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EB%B3%84-%EC%B0%8D%EA%B8%B0)
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) / [풀이](https://velog.io/@t1won/Level-1-%EB%82%B4%EC%A0%81)
+- [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644?language=python3) / [풀이](https://velog.io/@t1won/Level-1-%EB%91%90-%EA%B0%9C-%EB%BD%91%EC%95%84%EC%84%9C-%EB%8D%94%ED%95%98%EA%B8%B0)
+- [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) / [풀이](https://velog.io/@t1won/Level-1-%EA%B0%80%EC%9A%B4%EB%8D%B0-%EA%B8%80%EC%9E%90-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+- [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) / [풀이](https://velog.io/@t1won/Level-1-%ED%8F%89%EA%B7%A0-%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 ## SQL
 - HackerRank
