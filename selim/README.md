@@ -19,3 +19,4 @@
 - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) lv.1
 - [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) lv.1
 - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) lv.1
+- [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) lv.1
