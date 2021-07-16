@@ -16,6 +16,10 @@
 - [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) / [풀이](https://velog.io/@t1won/Level-1-%ED%96%89%EB%A0%AC%EC%9D%98-%EB%8D%A7%EC%85%88)
 - [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) / [풀이](https://velog.io/@t1won/Level-1-%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B0%80%EB%A6%AC%EA%B8%B0)
 - [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) / [풀이]()
+- [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) / [풀이](https://velog.io/@t1won/Level-1-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%EA%B8%B0%EB%B3%B8)
+- [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) / [풀이](https://velog.io/@t1won/Level-1-%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C-%EA%B9%80%EC%84%9C%EB%B0%A9-%EC%B0%BE%EA%B8%B0)
+- [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) / [풀이](https://velog.io/@t1won/Level-1-%EC%A7%9D%EC%88%98%EC%99%80-%ED%99%80%EC%88%98)
+- [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) / [풀이](https://velog.io/@t1won/Level-1-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-p%EC%99%80-y%EC%9D%98-%EA%B0%9C%EC%88%98)
 
 ## SQL
 - HackerRank
