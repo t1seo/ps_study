@@ -21,7 +21,9 @@ def solution(w,h):
 
     # 상대적으로 짧은 w를 기준으로 1씩 커지면서 겹치는 부분을 더한다
     for i in range(0, w):
-        bgin = math.floor(h * i / w)
+        bgin = math.floor(h * i / w) 
+        ## **주의할 점! h / w * i 하면 시간 초과 및 오류 난다 부동소수점 때문에 생기는 문제라고 함**
+        ## h / w * i (x) h * i / w (o)
 
         # 만약 floor 결과가 그 전에 ceil한 결과와 같다면 나눌 수 있는 정수(i)를 만난 것
         if (bgin == end):
