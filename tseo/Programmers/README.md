@@ -12,6 +12,10 @@
 - [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=python3) / [풀이](https://velog.io/@t1won/Level-1-2016%EB%85%84)
 - [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) / [풀이](https://velog.io/@t1won/Level-1-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%EC%A0%95%EC%88%98%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
 - [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) / [풀이](https://velog.io/@t1won/Level-1-%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
+- [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) / [풀이](https://velog.io/@t1won/Level-1-x%EB%A7%8C%ED%81%BC-%EA%B0%84%EA%B2%A9%EC%9D%B4-%EC%9E%88%EB%8A%94-n%EA%B0%9C%EC%9D%98-%EC%88%AB%EC%9E%90)
+- [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) / [풀이](https://velog.io/@t1won/Level-1-%ED%96%89%EB%A0%AC%EC%9D%98-%EB%8D%A7%EC%85%88)
+- [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) / [풀이](https://velog.io/@t1won/Level-1-%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B0%80%EB%A6%AC%EA%B8%B0)
+- [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) / [풀이]()
 
 ## SQL
 - HackerRank
