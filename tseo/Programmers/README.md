@@ -21,6 +21,7 @@
 - [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) / [풀이](https://velog.io/@t1won/Level-1-%EC%A7%9D%EC%88%98%EC%99%80-%ED%99%80%EC%88%98)
 - [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) / [풀이](https://velog.io/@t1won/Level-1-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-p%EC%99%80-y%EC%9D%98-%EA%B0%9C%EC%88%98)
 - [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) / [풀이](https://velog.io/@t1won/Level-1-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-p%EC%99%80-y%EC%9D%98-%EA%B0%9C%EC%88%98)
+- [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) / [풀이](https://velog.io/@t1won/Level-1-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
 
 ## SQL
 - HackerRank
