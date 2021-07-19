@@ -17,8 +17,11 @@
 ### 해시 
 - [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) lv.1
 
-## 그리디 
+### 그리디 
 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883#) lv.2
+
+### lambda 
+- [K번쨰수](https://programmers.co.kr/learn/courses/30/lessons/42748) lv.1
 
 ### 기타 
 - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) lv.1
