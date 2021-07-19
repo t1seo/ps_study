@@ -5,7 +5,7 @@
 
 ### 스택/큐 
 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) lv.2
-- [옥상정원 꾸미기](https://www.acmicpc.net/problem/6198) 백준에만 
+- [옥상정원 꾸미기](https://www.acmicpc.net/problem/6198) 백준에만 있는 문제 
 
 ### 버킷 
 - [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) lv.1
