@@ -22,6 +22,10 @@
 - [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) / [풀이](https://velog.io/@t1won/Level-1-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-p%EC%99%80-y%EC%9D%98-%EA%B0%9C%EC%88%98)
 - [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) / [풀이](https://velog.io/@t1won/Level-1-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-p%EC%99%80-y%EC%9D%98-%EA%B0%9C%EC%88%98)
 - [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940?language=python3) / [풀이](https://velog.io/@t1won/Level-1-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
+- [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) / [풀이](https://velog.io/@t1won/Level-1-%EC%A0%9C%EC%9D%BC-%EC%9E%91%EC%9D%80-%EC%88%98-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+- [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12934) / [풀이](https://velog.io/@t1won/Level-1-%EC%A0%95%EC%88%98-%EC%A0%9C%EA%B3%B1%EA%B7%BC-%ED%8C%90%EB%B3%84)
+- [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) / [풀이](https://velog.io/@t1won/Level-1-%EC%A0%95%EC%88%98-%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
+- [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) / [풀이](https://velog.io/@t1won/Level-1-%EC%9E%90%EC%97%B0%EC%88%98-%EB%92%A4%EC%A7%91%EC%96%B4-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ## SQL
 - HackerRank
