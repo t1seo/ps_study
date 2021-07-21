@@ -41,5 +41,7 @@
 - [알고리즘 공부, 어떻게 해야하나요?](https://baactree.tistory.com/52)
 - [내가 문제풀이를 연습하는 방법 - 구사과](https://koosaga.com/217)
 
-## 참고 자료 - 파이썬
+## 참고 자료
 - [파이썬 코드 스타일(pep8)을 Black으로 자동 포맷팅하기](https://jonnung.dev/python/2019/11/10/python-black-uncompromising-code-formatter/)
+- [PR 하는 방법 안내](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+- [PR 하는 방법 안내 (조금 더 상세한버전)](https://www.secmem.org/blog/2019/04/10/git_pr/)
