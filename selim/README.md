@@ -19,6 +19,8 @@
 [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42587printer.py)
 - [탑](https://www.acmicpc.net/problem/2493) 백준에만 있는 문제/ 비교적 쉬움
 [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2493.py) 
+- [최소 회의실 개수](https://www.acmicpc.net/problem/19598) 백준에만 있는 문제 / 어려움
+[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/19598.py)
 
 ### 버킷 
 - [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) lv.1
