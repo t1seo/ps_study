@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/3190
+# 뱀 
+
 import sys
 from collections import deque
 
