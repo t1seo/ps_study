@@ -23,6 +23,10 @@
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
 |||||
+|3190|[뱀](https://www.acmicpc.net/problem/3190) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/3190.py)|시뮬레이션|
+|||||
+|5430|[AC](https://www.acmicpc.net/problem/5430) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/5430.py) | 파싱|
+|||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
 |42840|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42840test.py)||
