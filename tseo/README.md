@@ -25,3 +25,6 @@
 |12934| [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12934)|Level1| [풀이](https://velog.io/@t1won/Level-1-%EC%A0%95%EC%88%98-%EC%A0%9C%EA%B3%B1%EA%B7%BC-%ED%8C%90%EB%B3%84)|연습문제|
 |12933| [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) |Level1| [풀이](https://velog.io/@t1won/Level-1-%EC%A0%95%EC%88%98-%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)|연습문제|
 |12932| [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |Level1| [풀이](https://velog.io/@t1won/Level-1-%EC%9E%90%EC%97%B0%EC%88%98-%EB%92%A4%EC%A7%91%EC%96%B4-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)|연습문제|
+|12931| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|Level1|[풀이](https://velog.io/@t1won/Level-1-%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0)|연습문제|
+|12931| [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|Level1| [풀이](https://velog.io/@t1won/Level-1-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%AC%B8%EC%9E%90-%EB%A7%8C%EB%93%A4%EA%B8%B0) |연습문제|
+|12928| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |Level1|[풀이](https://velog.io/@t1won/Level-1-%EC%95%BD%EC%88%98%EC%9D%98-%ED%95%A9)|연습문제|
