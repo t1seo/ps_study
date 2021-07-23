@@ -1,18 +1,18 @@
 c = int(input())
 for i in range(0, c):
-	n = list(map(int, input().split()))
-	score = 0
-	students = 0
-	for j in range(0, n[0]):
-		score += n[j + 1]
-	score = score / n[0]
-	for k in range(0, n[0]):
-		if n[k + 1] > score:
-			students += 1
-	print('%.3f%%'%(students * 100 / n[0]))
+    n = list(map(int, input().split()))
+    score = 0
+    students = 0
+    for j in range(0, n[0]):
+        score += n[j + 1]
+    score = score / n[0]
+    for k in range(0, n[0]):
+        if n[k + 1] > score:
+            students += 1
+    print("%.3f%%" % (students * 100 / n[0]))
 
 # https://ooyoung.tistory.com/62
-'''
+"""
 n = int(input())
 for _ in range(n):
     nums = list(map(int, input().split()))
@@ -23,7 +23,7 @@ for _ in range(n):
             cnt += 1  # 평균 이상인 학생 수
     rate = cnt/nums[0] *100
     print(f'{rate:.3f}%')
-'''
+"""
 
 # for i in range(0, c):
 # ==
