@@ -3,8 +3,8 @@ import sys
 from collections import deque
 
 def AC(p, lenn, arr): # RDD 4 [1,2,3,4]
-	i = 0	# 
-	r = 0
+	i = 0	# p의 인덱스
+	r = 0	# reverse의 count
 	if (arr[0] == '' and p[0] == 'D'): # 예외처리 1 D 0 [] 일 경우 error가 나와야 한다 
 		print("error")
 		return 
