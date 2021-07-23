@@ -1,5 +1,6 @@
 def solve(a: list):
-	return sum(a)
+    return sum(a)
+
 
 # (a: list)
 # ==
