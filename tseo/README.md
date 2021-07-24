@@ -29,3 +29,4 @@
 |12931| [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|Level1| [풀이](https://velog.io/@t1won/Level-1-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%AC%B8%EC%9E%90-%EB%A7%8C%EB%93%A4%EA%B8%B0) |연습문제|
 |12928| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |Level1|[풀이](https://velog.io/@t1won/Level-1-%EC%95%BD%EC%88%98%EC%9D%98-%ED%95%A9)|연습문제|
 |12926| [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)ㅣLevel1|[풀이](https://velog.io/@t1won/Level-1-%EC%8B%9C%EC%A0%80-%EC%95%94%ED%98%B8)|연습문제|
+|42748| [K번쨰 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|Level1|[풀이](https://velog.io/@t1won/Level-1-K-%EB%B2%88%EC%A7%B8-%EC%88%98)|정렬|
