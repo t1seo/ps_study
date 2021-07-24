@@ -57,8 +57,9 @@
 - [개인이 생각하는 알고리즘(PS/CP) 공부 유형 및 보완법 - Subinium](https://subinium.github.io/PS-Study-Types-and-Complements/)
 - [알고리즘 공부, 어떻게 해야하나요?](https://baactree.tistory.com/52)
 - [내가 문제풀이를 연습하는 방법 - 구사과](https://koosaga.com/217)
-법
+
 ### 기타 참고 자료
 - [파이썬 코드 스타일(pep8)을 Black으로 자동 포맷팅하기](https://jonnung.dev/python/2019/11/10/python-black-uncompromising-code-formatter/)
 - [PR 하는 방법 안내](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 - [PR 하는 방법 안내 (조금 더 상세한버전)](https://www.secmem.org/blog/2019/04/10/git_pr/)
+- [Visual Studio Code에서 Python 가상환경 설정 및 Lint 사용](https://jhyeok.com/python-with-vscode/)
