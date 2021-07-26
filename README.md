@@ -2,10 +2,13 @@
  🔥 알고리즘 문제풀이 스터디 🔥
 </h1>
 
-## Rules
+
+## 🧾 Rules
 - `Python`을 이용해 일주일에 3~5문제씩 풀기
 
-## 알고리즘 문제 풀 때!
+
+
+## ✏️ 알고리즘 문제 풀 때!
 1️⃣ 문제를 찬찬히 읽고 30분정도 고민해보기
 
 2️⃣ 고민해본 방법으로 코드작성해보기
@@ -14,7 +17,20 @@
 
 4️⃣ 뭐가 다른지 생각해보기
 
-## 참고 자료
+
+
+## 📕 참고 자료
+### 파이썬 레퍼런스
+- [파이썬 공식 문서](https://docs.python.org/ko/3/)
+	- 프로그래머스에서는 공식 레퍼런스만 참조할 수 있습니다
+- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+  - [[Effective Python]PEP 8 스타일 가이드를 따르라](https://velog.io/@t1won/2.-PEP-8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%94%B0%EB%A5%B4%EB%9D%BC)
+- [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
+### 문제 풀이 사이트
+- [Programmers](https://programmers.co.kr/learn/challenges)
+- [BOJ](https://www.acmicpc.net/)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/dashboard)
 ### 알고리즘 설명
 - 실전 알고리즘
 	- [실전 알고리즘(blog)](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
@@ -25,21 +41,12 @@
   - [안경잡이개발자 블로그](https://blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ndb796&logNo=221226794899)
   - [이것이 취업을 위한 코딩테스트다(youtube)](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&ab_channel=%EB%8F%99%EB%B9%88%EB%82%98)
   - [이것이 취업을 위한 코딩테스트다(github)](https://github.com/ndb796/python-for-coding-test)
+
+- [VisuAlgo - 자료구조/알고리즘 시각화](https://visualgo.net/ko)
 ### 유형별 문제 모음
 - [BOJ 기초 알고리즘](_asset/BOJ_기초_알고리즘.png)
 - [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon)
-### 파이썬 레퍼런스
-- [파이썬 공식 문서](https://docs.python.org/ko/3/)
-	- 프로그래머스에서는 공식 레퍼런스만 참조할 수 있습니다
-- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-  - [[Effective Python]PEP 8 스타일 가이드를 따르라](https://velog.io/@t1won/2.-PEP-8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%94%B0%EB%A5%B4%EB%9D%BC)
-- [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 
-### 문제 풀이 사이트
-- [Programmers](https://programmers.co.kr/learn/challenges)
-- [BOJ](https://www.acmicpc.net/)
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/dashboard)
 
 ### 참고 도서
 - [파이썬 알고리즘 인터뷰](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909178&orderClick=LEa&Kc=)
@@ -57,8 +64,9 @@
 - [개인이 생각하는 알고리즘(PS/CP) 공부 유형 및 보완법 - Subinium](https://subinium.github.io/PS-Study-Types-and-Complements/)
 - [알고리즘 공부, 어떻게 해야하나요?](https://baactree.tistory.com/52)
 - [내가 문제풀이를 연습하는 방법 - 구사과](https://koosaga.com/217)
-법
+
 ### 기타 참고 자료
 - [파이썬 코드 스타일(pep8)을 Black으로 자동 포맷팅하기](https://jonnung.dev/python/2019/11/10/python-black-uncompromising-code-formatter/)
 - [PR 하는 방법 안내](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 - [PR 하는 방법 안내 (조금 더 상세한버전)](https://www.secmem.org/blog/2019/04/10/git_pr/)
+- [Visual Studio Code에서 Python 가상환경 설정 및 Lint 사용](https://jhyeok.com/python-with-vscode/)
