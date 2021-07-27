@@ -28,5 +28,8 @@
 |12931| [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|Level1|[풀이](https://velog.io/@t1won/Level-1-%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0)|연습문제|
 |12931| [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|Level1| [풀이](https://velog.io/@t1won/Level-1-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%AC%B8%EC%9E%90-%EB%A7%8C%EB%93%A4%EA%B8%B0) |연습문제|
 |12928| [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |Level1|[풀이](https://velog.io/@t1won/Level-1-%EC%95%BD%EC%88%98%EC%9D%98-%ED%95%A9)|연습문제|
-|12926| [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)ㅣLevel1|[풀이](https://velog.io/@t1won/Level-1-%EC%8B%9C%EC%A0%80-%EC%95%94%ED%98%B8)|연습문제|
+|12926| [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) |Level1|[풀이](https://velog.io/@t1won/Level-1-%EC%8B%9C%EC%A0%80-%EC%95%94%ED%98%B8)|연습문제|
 |42748| [K번쨰 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|Level1|[풀이](https://velog.io/@t1won/Level-1-K-%EB%B2%88%EC%A7%B8-%EC%88%98)|정렬|
+|12921| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) |Level1|[풀이](https://velog.io/@t1won/Level-1-%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0)|연습문제|
+|12917|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) |Level1|[풀이](https://velog.io/@t1won/Level-1-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)|연습문제|
+|12915|[문자열 내 맘대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|Level1|[풀이](https://velog.io/@t1won/Python-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)|연습문제|
