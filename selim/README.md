@@ -2,8 +2,9 @@
 
 |  #  | <img width=50px> Name <img width=50px>| Difficulty | Code | Tag |
 | :-: | :---: | :--------: | :----: | :--: |
-| 43165 |[타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165#qna) |lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/43165dfs.py)| DFS(완전정복)|
-|42839 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42839dfsprime.py)| DFS(완전 정복)|
+| 43165 |[타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165#qna) |lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/43165dfs.py)| DFS(완전탐색)|
+|42839 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42839dfsprime.py)| DFS(완전탐색)|
+|42842 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42842carpet.py)| 완전탐색|
 |||||
  |1844|[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/1844gamemap.py)|BFS|
 |||||
@@ -18,7 +19,7 @@
 |12899| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12899nation124.py)|재귀|
 |||||
 |42576| [   완주하지 못한 선수    ](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42576playerhash.py)|해시|
-|42577| [   전화번호 목록    ](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42577hashphone.py)|해시|
+|42577| [   전화번호 목록    ](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42577hashphone.py)|해시|
 |||||
 |42883|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883#)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42883makingbignum.py)|그리디|
 |||||
@@ -33,3 +34,4 @@
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
 |42840|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42840test.py)||
 |62048|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/62048square.py)||
+|77484|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/77484lottominmax.py)||
