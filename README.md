@@ -32,6 +32,8 @@
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/dashboard)
 ### 알고리즘 설명
+- [SW Expert Academy](https://swexpertacademy.com/main/main.do)
+
 - 바킹독의 실전 알고리즘
 	- [실전 알고리즘(blog)](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 	- [실전 알고리즘(youtube)](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&ab_channel=BaaarkingDog)
@@ -55,6 +57,7 @@
 - [다이내믹 프로그래밍 완전정복](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242063&orderClick=LEa&Kc=)
 
 ### 학습 방법
+- [2021 상반기 취준대비 코스 - 코딩테스트편](https://thinline-it.tistory.com/8)
 - [코딩테스트 단 한번에 통과하는 3가지 방법(Youtube)](https://www.youtube.com/watch?v=BHEVExiUFgU)
 - [나동빈님 코테 준비 요령(Youtube)](https://www.youtube.com/watch?v=ukkLCl9yBvE)
 - [안경잡이개발자(나동빈님) 블로그](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ndb796&logNo=221226794899)
