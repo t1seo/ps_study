@@ -22,6 +22,7 @@
 |42577| [   전화번호 목록    ](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42577hashphone.py)|해시|
 |||||
 |42883|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883#)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42883makingbignum.py)|그리디|
+|42860|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860#)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42860joystick.py)|그리디|
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
 |42746|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42746biggestnum.py)|lambda / 정렬|
