@@ -34,7 +34,8 @@ https://solved.ac/profile/leesy0159
 | #    | 문제 번호                                    | 제목            |
 | ---- | -------------------------------------------- | --------------- |
 | 1    | [1065](https://www.acmicpc.net/problem/1065) | 한수            |
-| 2    | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기       |
-| 3    | [2628](https://www.acmicpc.net/problem/2628) | 종이자르기      |
-| 4    | [9020](https://www.acmicpc.net/problem/9020) | 골드바흐의 추측 |
+| 2    | [1914](https://www.acmicpc.net/problem/1914) | 하노이 탑       |
+| 3    | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기       |
+| 4    | [2628](https://www.acmicpc.net/problem/2628) | 종이자르기      |
+| 5    | [9020](https://www.acmicpc.net/problem/9020) | 골드바흐의 추측 |
 
