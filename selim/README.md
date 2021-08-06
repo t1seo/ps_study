@@ -39,3 +39,4 @@
 |62048|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/62048square.py)||
 |77484|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/77484lottominmax.py)||
 |12906|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12906nosamenum.py)||
+|82612|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/82612cntmoney.py)||
