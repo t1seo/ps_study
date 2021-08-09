@@ -1,4 +1,5 @@
 ## Programmers
+### Level 1
 |  #  | Title | Difficulty | Solution | TAGS |
 | :-: | :---: | :--------: | :------: | :--: |
 |42575| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | Level 1 | [풀이](https://velog.io/@t1won/Level-1-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98) | Hash |
@@ -36,8 +37,12 @@
 |12912|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|Level 1|[풀이](https://velog.io/@t1won/Level-1-%EB%91%90-%EC%A0%95%EC%88%98-%EC%82%AC%EC%9D%B4%EC%9D%98-%ED%95%A9)|연습문제|
 |12910|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|Level 1|[풀이](https://velog.io/@t1won/Level-1-%EB%82%98%EB%88%84%EC%96%B4-%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94-%EC%88%AB%EC%9E%90-%EB%B0%B0%EC%97%B4)|연습문제|
 |12906|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|Level 1|[풀이](https://velog.io/@t1won/Level-1-%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4)|연습문제|
-|42577|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|Level 2|[풀이](https://velog.io/@t1won/Level-1-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)|해시|
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|Level 1|[풀이](https://velog.io/@t1won/Level-1-%EC%9D%8C%EC%96%91-%EB%8D%94%ED%95%98%EA%B8%B0)|월간 코드 챌린지 시즌2|
 |68935|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|Level 1|[풀이](https://velog.io/@t1won/Level-1-3%EC%A7%84%EB%B2%95-%EB%92%A4%EC%A7%91%EA%B8%B0)|월간 코드 챌린지 시즌1|
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|Level 1|[풀이](https://velog.io/@t1won/Level-1-%ED%8F%B0%EC%BC%93%EB%AA%AC)|찾아라 프로그래밍 마에스터|
 |12977|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|Level 1|[풀이](https://velog.io/@t1won/Level-1-%EC%86%8C%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)|Summer/Winter Coding(~2018)|
+
+### Level 2
+|  #  | Title | Difficulty | Solution | TAGS |
+| :-: | :---: | :--------: | :------: | :--: |
+|42577|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|Level 2|[풀이](https://velog.io/@t1won/Level-1-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)|해시|
