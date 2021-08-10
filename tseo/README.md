@@ -46,3 +46,4 @@
 |  #  | Title | Difficulty | Solution | TAGS |
 | :-: | :---: | :--------: | :------: | :--: |
 |42577|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|Level 2|[풀이](https://velog.io/@t1won/Level-1-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D)|해시|
+|12953|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|Level 2|[풀이](https://velog.io/@t1won/Level-2-N%EA%B0%9C%EC%9D%98-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)|연습문제|
