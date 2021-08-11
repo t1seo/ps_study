@@ -41,6 +41,8 @@
 |68935|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|Level 1|[풀이](https://velog.io/@t1won/Level-1-3%EC%A7%84%EB%B2%95-%EB%92%A4%EC%A7%91%EA%B8%B0)|월간 코드 챌린지 시즌1|
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|Level 1|[풀이](https://velog.io/@t1won/Level-1-%ED%8F%B0%EC%BC%93%EB%AA%AC)|찾아라 프로그래밍 마에스터|
 |12977|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|Level 1|[풀이](https://velog.io/@t1won/Level-1-%EC%86%8C%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)|Summer/Winter Coding(~2018)|
+|12982|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|Level 1|[풀이](https://velog.io/@t1won/Level-1-%EC%98%88%EC%82%B0)|Summer/Winter Coding(~2018)|
+|17682|[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|Level 1|[풀이](https://velog.io/@t1won/Level-1-%EB%8B%A4%ED%8A%B8-%EA%B2%8C%EC%9E%84)|2018 KAKAO BLIND RECRUITMENT|
 
 ### Level 2
 |  #  | Title | Difficulty | Solution | TAGS |
