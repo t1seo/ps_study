@@ -27,6 +27,7 @@
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
 |42746|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42746biggestnum.py)|lambda / 정렬|
+|81301|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/68644picktwo.py)|정렬|
 |||||
 |3190|[뱀](https://www.acmicpc.net/problem/3190) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/3190.py)|시뮬레이션|
 |||||
