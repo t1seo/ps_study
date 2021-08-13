@@ -41,3 +41,4 @@
 |12906|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12906nosamenum.py)||
 |82612|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/82612cntmoney.py)||
 |83201|[상호평가](https://programmers.co.kr/learn/courses/30/lessons/83201) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/83201grade.py)||
+|81301|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/81301one1.py)||
