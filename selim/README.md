@@ -27,6 +27,7 @@
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
 |42746|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42746biggestnum.py)|lambda / 정렬|
+|81301|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/68644picktwo.py)|정렬|
 |||||
 |3190|[뱀](https://www.acmicpc.net/problem/3190) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/3190.py)|시뮬레이션|
 |||||
@@ -40,3 +41,5 @@
 |77484|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/77484lottominmax.py)||
 |12906|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12906nosamenum.py)||
 |82612|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/82612cntmoney.py)||
+|83201|[상호평가](https://programmers.co.kr/learn/courses/30/lessons/83201) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/83201grade.py)||
+|81301|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/81301one1.py)||
