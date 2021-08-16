@@ -51,7 +51,7 @@ elif: 틀렸다
 	- [실전 알고리즘(github)](https://github.com/encrypted-def/basic-algo-lecture)
 
 - DongbinNa
-  - [안경잡이개발자 블로그](https://blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ndb796&logNo=221226794899)
+  - [안경잡이개발자 블로그](https://blog.naver.com/PostList.naver?blogId=ndb796&categoryNo=128&from=postList&parentCategoryNo=0)
   - [이것이 취업을 위한 코딩테스트다(youtube)](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&ab_channel=%EB%8F%99%EB%B9%88%EB%82%98)
   - [이것이 취업을 위한 코딩테스트다(github)](https://github.com/ndb796/python-for-coding-test)
 
