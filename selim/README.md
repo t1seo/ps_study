@@ -6,7 +6,8 @@
 |42839 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42839dfsprime.py)| DFS(완전탐색)|
 |42842 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42842carpet.py)| 완전탐색|
 |||||
- |1844|[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/1844gamemap.py)|BFS|
+|1844|[게임 맵 최단거리](https://www.acmicpc.net/problem/2206) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2206.py)|BFS|
+|2206|[벽 부수고 이동하기](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) | 어려움!! |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/1844gamemap.py)|BFS|
 |||||
 |42586|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)| lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42586progresses.py)|스택/큐|
 |6198|[옥상정원 꾸미기](https://www.acmicpc.net/problem/6198) |어려움 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/6198.py)|스택/큐|
@@ -24,13 +25,15 @@
 |42883|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883#)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42883makingbignum.py)|그리디|
 |42860|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860#)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42860joystick.py)|그리디|
 |12904|[A와 B](acmicpc.net/problem/12904)| 어려움 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/12904.py)|그리디|
+|42862|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42862ptshirt.py)|그리디|
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
+|70128|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/70128axb.py)|lambda|
 |42746|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42746biggestnum.py)|lambda / 정렬|
 |81301|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/68644picktwo.py)|정렬|
 |||||
 |3190|[뱀](https://www.acmicpc.net/problem/3190) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/3190.py)|시뮬레이션|
-|2565|[전깃줄](https://www.acmicpc.net/problem/2565) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2565.py)|다이나믹 프로그래밍|
+|2565|[전깃줄](https://www.acmicpc.net/problem/2565) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2565.py)|다이나믹 프로그래밍|
 |||||
 |5430|[AC](https://www.acmicpc.net/problem/5430) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/5430.py) | 파싱|
 |64065|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/64065tuple.py) | 파싱|
