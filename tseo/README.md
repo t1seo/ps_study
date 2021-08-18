@@ -53,3 +53,5 @@
 |12951|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|Level 2|[풀이](https://velog.io/@t1won/Level-2-JadenCase-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0)|연습문제|
 |12949|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%ED%96%89%EB%A0%AC%EC%9D%98-%EA%B3%B1%EC%85%88)|연습문제|
 |12945|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98)|연습문제|
+|12941|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%B5%9C%EC%86%9F%EA%B0%92-%EB%A7%8C%EB%93%A4%EA%B8%B0)|연습문제|
+
