@@ -36,6 +36,7 @@
 |2565|[전깃줄](https://www.acmicpc.net/problem/2565) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2565.py)|다이나믹 프로그래밍|
 |9465|[스티커](https://www.acmicpc.net/problem/9465) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/9465.py)|다이나믹 프로그래밍|
 |1915|[가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | 어려움!! | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1915.py)|다이나믹 프로그래밍|
+|2491|[수열](https://www.acmicpc.net/problem/2491) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2491.py)|다이나믹 프로그래밍|
 |||||
 |5430|[AC](https://www.acmicpc.net/problem/5430) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/5430.py) | 파싱|
 |64065|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/64065tuple.py) | 파싱|
