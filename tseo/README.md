@@ -56,4 +56,5 @@
 |12941|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%B5%9C%EC%86%9F%EA%B0%92-%EB%A7%8C%EB%93%A4%EA%B8%B0)|연습문제|
 |12939|[최댓값과 최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12939)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC-%EC%B5%9C%EC%86%9F%EA%B0%92)|연습문제|
 |12924|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%88%AB%EC%9E%90%EC%9D%98-%ED%91%9C%ED%98%84)|연습문제|
+|12913|[땅 따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913?language=python3)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0)|연습문제|
 
