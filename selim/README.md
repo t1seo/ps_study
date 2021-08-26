@@ -52,3 +52,4 @@
 |83201|[상호평가](https://programmers.co.kr/learn/courses/30/lessons/83201) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/83201grade.py)||
 |81301|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/81301one1.py)||
 |11478|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |쉬움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/11478.py)||
+|1051|[숫자 정사각형](https://www.acmicpc.net/problem/1051) |쉬움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1051.py)||
