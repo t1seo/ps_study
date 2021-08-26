@@ -51,3 +51,4 @@
 |82612|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/82612cntmoney.py)||
 |83201|[상호평가](https://programmers.co.kr/learn/courses/30/lessons/83201) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/83201grade.py)||
 |81301|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/81301one1.py)||
+|11478|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |쉬움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/11478.py)||
