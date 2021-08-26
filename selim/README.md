@@ -18,6 +18,7 @@
 |12977| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12977making_prime.py)|버킷|
 |||||
 |12899| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12899nation124.py)|재귀|
+|16198 |[에너지 모으기](https://www.acmicpc.net/problem/16198) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/16198.py)| 완전탐색|
 |||||
 |42576| [   완주하지 못한 선수    ](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42576playerhash.py)|해시|
 |42577| [   전화번호 목록    ](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42577hashphone.py)|해시|
@@ -34,6 +35,9 @@
 |||||
 |3190|[뱀](https://www.acmicpc.net/problem/3190) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/3190.py)|시뮬레이션|
 |2565|[전깃줄](https://www.acmicpc.net/problem/2565) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2565.py)|다이나믹 프로그래밍|
+|9465|[스티커](https://www.acmicpc.net/problem/9465) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/9465.py)|다이나믹 프로그래밍|
+|1915|[가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | 어려움!! | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1915.py)|다이나믹 프로그래밍|
+|2491|[수열](https://www.acmicpc.net/problem/2491) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2491.py)|다이나믹 프로그래밍|
 |||||
 |5430|[AC](https://www.acmicpc.net/problem/5430) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/5430.py) | 파싱|
 |64065|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/64065tuple.py) | 파싱|
@@ -47,3 +51,5 @@
 |82612|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/82612cntmoney.py)||
 |83201|[상호평가](https://programmers.co.kr/learn/courses/30/lessons/83201) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/83201grade.py)||
 |81301|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/81301one1.py)||
+|11478|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |쉬움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/11478.py)||
+|1051|[숫자 정사각형](https://www.acmicpc.net/problem/1051) |쉬움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1051.py)||
