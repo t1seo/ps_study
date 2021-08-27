@@ -58,4 +58,6 @@
 |12924|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%88%AB%EC%9E%90%EC%9D%98-%ED%91%9C%ED%98%84)|연습문제|
 |12913|[땅 따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913?language=python3)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0)|연습문제|
 |12911|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EB%8B%A4%EC%9D%8C-%ED%81%B0-%EC%88%AB%EC%9E%90)|연습문제|
+|12687|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|Level 2|[풀이](https://velog.io/@t1won/Level-2-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84)|2018 KAKAO BLIND RECRUITMENT
+|
 
