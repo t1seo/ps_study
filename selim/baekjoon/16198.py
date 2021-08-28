@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/16198
-# 백트랙킹(찐dfs) > 에너지 모으기
+# 백트랙킹, 재귀 > 에너지 모으기
 
 finsumlst = []
 

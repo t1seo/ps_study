@@ -14,6 +14,7 @@
 |42587|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42587printer.py)|스택/큐|
 |2493|[탑](https://www.acmicpc.net/problem/2493) | 중간 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2493.py) |스택/큐|
 |19598|[최소 회의실 개수](https://www.acmicpc.net/problem/19598) |어려움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/19598.py)|스택/큐|
+|76502|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/76502parentheses.py)|스택/큐|
 |||||
 |12977| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12977making_prime.py)|버킷|
 |||||
