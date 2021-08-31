@@ -17,6 +17,7 @@
 |76502|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/76502parentheses.py)|스택/큐|
 |||||
 |12977| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12977making_prime.py)|버킷|
+|84512| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/84512aeiou.py)|버킷|
 |||||
 |12899| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12899nation124.py)|재귀|
 |16198 |[에너지 모으기](https://www.acmicpc.net/problem/16198) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/16198.py)| 완전탐색|
