@@ -5,6 +5,7 @@
 | 43165 |[타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165#qna) |lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/43165dfs.py)| DFS(완전탐색)|
 |42839 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42839dfsprime.py)| DFS(완전탐색)|
 |42842 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42842carpet.py)| 완전탐색|
+|81302 |[카카오 인턴십 : 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/81302kakao2021.py)| 완전탐색|
 |||||
 |1844|[게임 맵 최단거리](https://www.acmicpc.net/problem/2206) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2206.py)|BFS|
 |2206|[벽 부수고 이동하기](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) | 어려움!! |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/1844gamemap.py)|BFS|
@@ -17,12 +18,14 @@
 |76502|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/76502parentheses.py)|스택/큐|
 |||||
 |12977| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12977making_prime.py)|버킷|
+|84512| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/84512aeiou.py)|버킷|
 |||||
 |12899| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12899nation124.py)|재귀|
 |16198 |[에너지 모으기](https://www.acmicpc.net/problem/16198) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/16198.py)| 완전탐색|
 |||||
 |42576| [   완주하지 못한 선수    ](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42576playerhash.py)|해시|
 |42577| [   전화번호 목록    ](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42577hashphone.py)|해시|
+|42578| [   위장    ](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42578spy.py)|해시|
 |||||
 |42883|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883#)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42883makingbignum.py)|그리디|
 |42860|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860#)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42860joystick.py)|그리디|
