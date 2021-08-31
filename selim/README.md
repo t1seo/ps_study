@@ -24,6 +24,7 @@
 |||||
 |42576| [   완주하지 못한 선수    ](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42576playerhash.py)|해시|
 |42577| [   전화번호 목록    ](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42577hashphone.py)|해시|
+|42578| [   위장    ](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42578spy.py)|해시|
 |||||
 |42883|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883#)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42883makingbignum.py)|그리디|
 |42860|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860#)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42860joystick.py)|그리디|
