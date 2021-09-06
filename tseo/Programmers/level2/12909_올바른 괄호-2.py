@@ -1,5 +1,4 @@
-def is_pair(s):
-    # 함수를 완성하세요
+def solution(s):
     x = 0
     for w in s:
         if x < 0:
