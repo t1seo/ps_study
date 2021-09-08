@@ -16,6 +16,7 @@
 |2493|[탑](https://www.acmicpc.net/problem/2493) | 중간 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2493.py) |스택/큐|
 |19598|[최소 회의실 개수](https://www.acmicpc.net/problem/19598) |어려움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/19598.py)|스택/큐|
 |76502|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/76502parentheses.py)|스택/큐|
+|42584|[주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/42584stock.py)|스택/큐|
 |||||
 |12977| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12977making_prime.py)|버킷|
 |84512| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/84512aeiou.py)|버킷|
@@ -36,6 +37,7 @@
 |70128|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/70128axb.py)|lambda|
 |42746|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42746biggestnum.py)|lambda / 정렬|
 |81301|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/68644picktwo.py)|정렬|
+|42747|[H-Index 과학논문지수 ](https://programmers.co.kr/learn/courses/30/lessons/42747#) | lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42747h_index.py)|정렬|
 |||||
 |3190|[뱀](https://www.acmicpc.net/problem/3190) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/3190.py)|시뮬레이션|
 |2565|[전깃줄](https://www.acmicpc.net/problem/2565) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2565.py)|다이나믹 프로그래밍|
@@ -57,3 +59,4 @@
 |81301|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/81301one1.py)||
 |11478|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |쉬움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/11478.py)||
 |1051|[숫자 정사각형](https://www.acmicpc.net/problem/1051) |쉬움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1051.py)||
+|12985|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12986tourn.py)|비트 연산|
