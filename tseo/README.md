@@ -62,4 +62,4 @@
 |12687|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|Level 2|[풀이](https://velog.io/@t1won/Level-2-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84)|2018 KAKAO BLIND RECRUITMENT|
 |12909|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%98%AC%EB%B0%94%EB%A5%B8-%EA%B4%84%ED%98%B8)|Stack|
 |12905|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95-%EC%B0%BE%EA%B8%B0)|DP|
-
+|42586|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C)|스택/큐|
