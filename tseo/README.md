@@ -64,3 +64,4 @@
 |12905|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95-%EC%B0%BE%EA%B8%B0)|DP|
 |42586|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C)|스택/큐|
 |42584|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%A3%BC%EC%8B%9D-%EA%B0%80%EA%B2%A9)|스택/큐|
+|42885|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)|탐욕법(Greedy)|
