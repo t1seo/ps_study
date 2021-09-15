@@ -66,3 +66,4 @@
 |42584|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%A3%BC%EC%8B%9D-%EA%B0%80%EA%B2%A9)|스택/큐|
 |42885|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)|탐욕법(Greedy)|
 |42839|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0)|완전탐색|
+|42883|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%ED%81%B0-%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)|그리디(Greedy)|
