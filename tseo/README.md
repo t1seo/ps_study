@@ -63,3 +63,8 @@
 |12909|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%98%AC%EB%B0%94%EB%A5%B8-%EA%B4%84%ED%98%B8)|Stack|
 |12905|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95-%EC%B0%BE%EA%B8%B0)|DP|
 |42586|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C)|스택/큐|
+|42584|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%A3%BC%EC%8B%9D-%EA%B0%80%EA%B2%A9)|스택/큐|
+|42885|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)|탐욕법(Greedy)|
+|42839|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0)|완전탐색|
+|42883|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%ED%81%B0-%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)|그리디(Greedy)|
+|42626|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EB%8D%94-%EB%A7%B5%EA%B2%8C)|힙(heap)|
