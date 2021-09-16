@@ -7,6 +7,8 @@
 |42842 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42842carpet.py)| 완전탐색|
 |81302 |[카카오 인턴십 : 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/81302kakao2021.py)| 완전탐색|
 |||||
+|22233 |[가희와 키워드](https://www.acmicpc.net/problem/22233) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/22233.py)| 브루트포스 |
+|||||
 |1844|[게임 맵 최단거리](https://www.acmicpc.net/problem/2206) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2206.py)|BFS|
 |2206|[벽 부수고 이동하기](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) | 어려움!! |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/1844gamemap.py)|BFS|
 |||||
@@ -47,6 +49,8 @@
 |||||
 |5430|[AC](https://www.acmicpc.net/problem/5430) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/5430.py) | 파싱|
 |64065|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/64065tuple.py) | 파싱|
+|1541|[잃어버린 괄호](https://www.acmicpc.net/problem/1541) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1541.py) | 파싱|
+|10953|[A+B-6](https://www.acmicpc.net/problem/10953)|쉬움 | [풀이](acmicpc.net/problem/10953) | 파싱|
 |||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
