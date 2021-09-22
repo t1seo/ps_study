@@ -35,6 +35,7 @@
 |12904|[A와 B](acmicpc.net/problem/12904)| 어려움 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/12904.py)|그리디|
 |42862|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42862ptshirt.py)|그리디|
 |42885|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42885)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42885boat.py)|그리디|
+|12913|[체육복](https://programmers.co.kr/learn/courses/30/lessons/12913)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12913land.py)|그리디|
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
 |70128|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/70128axb.py)|lambda|
