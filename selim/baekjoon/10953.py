@@ -1,5 +1,5 @@
 """
-acmicpc.net/problemt/10953
+acmicpc.net/problem/10953
 A+B-6
 """
 
