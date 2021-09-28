@@ -69,3 +69,5 @@
 |42883|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%ED%81%B0-%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)|그리디(Greedy)|
 |42626|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EB%8D%94-%EB%A7%B5%EA%B2%8C)|힙(heap)|
 |43165|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84)|DFS/BFS|
+|42842|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%B9%B4%ED%8E%AB)|완전탐색|
+|42747|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|Level 2|[풀이](https://velog.io/@t1won/Level-2-H-Index)|정렬|

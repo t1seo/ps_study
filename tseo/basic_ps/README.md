@@ -2,8 +2,8 @@
 
 ## 6. 완전탐색 (백트랙킹, 상태트리와 CUT EDGE)-DFS (깊이우선탐색) 기초
 
-- [ ] 1. 재귀함수를 이용한 이진수 출력
-- [ ] 2. 이진트리순회(DFS : Depth First Search)
+- [x] 1. 재귀함수를 이용한 이진수 출력
+- [x] 2. 이진트리순회(DFS : Depth First Search)
 - [ ] 3. 부분집합 구하기(DFS)
 - [ ] 4. 합이 같은 부분집합(DFS)
 - [ ] 5. 바둑이 승차-Cut Edge Tech
