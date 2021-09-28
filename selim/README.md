@@ -68,3 +68,4 @@
 |11478|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) |쉬움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/11478.py)||
 |1051|[숫자 정사각형](https://www.acmicpc.net/problem/1051) |쉬움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1051.py)||
 |12985|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12986tourn.py)|비트 연산|
+|12981|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12981wordrelay.py)|비트 연산|
