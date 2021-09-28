@@ -71,3 +71,4 @@
 |43165|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84)|DFS/BFS|
 |42842|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EC%B9%B4%ED%8E%AB)|완전탐색|
 |42747|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|Level 2|[풀이](https://velog.io/@t1won/Level-2-H-Index)|정렬|
+|42583|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|Level 2|[풀이](https://velog.io/@t1won/Level-2-%EB%8B%A4%EB%A6%AC%EB%A5%BC-%EC%A7%80%EB%82%98%EB%8A%94-%ED%8A%B8%EB%9F%AD)|스택/큐|
