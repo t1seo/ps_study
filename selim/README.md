@@ -19,6 +19,7 @@
 |19598|[최소 회의실 개수](https://www.acmicpc.net/problem/19598) |어려움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/19598.py)|스택/큐|
 |76502|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/76502parentheses.py)|스택/큐|
 |42584|[주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/42584stock.py)|스택/큐|
+|12973|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/12973pair.py)|스택/큐|
 |||||
 |12977| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12977making_prime.py)|버킷|
 |84512| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/84512aeiou.py)|버킷|
