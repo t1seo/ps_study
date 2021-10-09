@@ -57,6 +57,7 @@
 |1541|[잃어버린 괄호](https://www.acmicpc.net/problem/1541) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1541.py) | 파싱|
 |10953|[A+B-6](https://www.acmicpc.net/problem/10953)|쉬움 | [풀이](acmicpc.net/problem/10953) | 파싱|
 |49993|[튜플](https://programmers.co.kr/learn/courses/30/lessons/49993) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/49993skilltrees.py) | 파싱|
+|17677|[튜플](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
 |||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
