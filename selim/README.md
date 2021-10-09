@@ -74,3 +74,4 @@
 |12981|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12981wordrelay.py)|for문|
 |12953|[N개의 최소공배수 LCM](https://programmers.co.kr/learn/courses/30/lessons/12953) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12953lcm.py)|최소공배수 구하기|
 |12951|[ JadenCase 문자열 만들기 ](https://programmers.co.kr/learn/courses/30/lessons/12951) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12951jadencase.py)|string 객체|
+|12924|[ 숫자의 표현 ](https://programmers.co.kr/learn/courses/30/lessons/12924) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12924numsum.py)|수열 |
