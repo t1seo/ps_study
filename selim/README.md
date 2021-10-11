@@ -19,6 +19,7 @@
 |19598|[최소 회의실 개수](https://www.acmicpc.net/problem/19598) |어려움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/19598.py)|스택/큐|
 |76502|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/76502parentheses.py)|스택/큐|
 |42584|[주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/42584stock.py)|스택/큐|
+|12973|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/12973pair.py)|스택/큐|
 |||||
 |12977| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12977making_prime.py)|버킷|
 |84512| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/84512aeiou.py)|버킷|
@@ -36,6 +37,7 @@
 |42862|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42862ptshirt.py)|그리디|
 |42885|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42885)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42885boat.py)|그리디|
 |12913|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12913land.py)|그리디|
+|43105|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3)| lv.3 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level3/43105tri.py)|그리디|
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
 |70128|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/70128axb.py)|lambda|
@@ -55,6 +57,7 @@
 |1541|[잃어버린 괄호](https://www.acmicpc.net/problem/1541) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1541.py) | 파싱|
 |10953|[A+B-6](https://www.acmicpc.net/problem/10953)|쉬움 | [풀이](acmicpc.net/problem/10953) | 파싱|
 |49993|[튜플](https://programmers.co.kr/learn/courses/30/lessons/49993) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/49993skilltrees.py) | 파싱|
+|17677|[튜플](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
 |||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
@@ -71,3 +74,4 @@
 |12981|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12981wordrelay.py)|for문|
 |12953|[N개의 최소공배수 LCM](https://programmers.co.kr/learn/courses/30/lessons/12953) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12953lcm.py)|최소공배수 구하기|
 |12951|[ JadenCase 문자열 만들기 ](https://programmers.co.kr/learn/courses/30/lessons/12951) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12951jadencase.py)|string 객체|
+|12924|[ 숫자의 표현 ](https://programmers.co.kr/learn/courses/30/lessons/12924) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12924numsum.py)|수열 |
