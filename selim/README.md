@@ -17,9 +17,10 @@
 |42587|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42587printer.py)|스택/큐|
 |2493|[탑](https://www.acmicpc.net/problem/2493) | 중간 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2493.py) |스택/큐|
 |19598|[최소 회의실 개수](https://www.acmicpc.net/problem/19598) |어려움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/19598.py)|스택/큐|
-|76502|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/76502parentheses.py)|스택/큐|
-|42584|[주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/42584stock.py)|스택/큐|
-|12973|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/ㅣlevel2/12973pair.py)|스택/큐|
+|76502|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/76502parentheses.py)|스택/큐|
+|42584|[주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42584stock.py)|스택/큐|
+|12973|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12973pair.py)|스택/큐|
+|2304|[창고 다각형](https://www.acmicpc.net/problem/2304) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2304.py)|스택/큐|
 |||||
 |12977| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12977making_prime.py)|버킷|
 |84512| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/84512aeiou.py)|버킷|
@@ -57,7 +58,8 @@
 |1541|[잃어버린 괄호](https://www.acmicpc.net/problem/1541) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1541.py) | 파싱|
 |10953|[A+B-6](https://www.acmicpc.net/problem/10953)|쉬움 | [풀이](acmicpc.net/problem/10953) | 파싱|
 |49993|[튜플](https://programmers.co.kr/learn/courses/30/lessons/49993) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/49993skilltrees.py) | 파싱|
-|17677|[튜플](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
+|12939|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12939maxminstr.py) | 파싱|
+|17677|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
 |||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
@@ -75,3 +77,5 @@
 |12953|[N개의 최소공배수 LCM](https://programmers.co.kr/learn/courses/30/lessons/12953) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12953lcm.py)|최소공배수 구하기|
 |12951|[ JadenCase 문자열 만들기 ](https://programmers.co.kr/learn/courses/30/lessons/12951) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12951jadencase.py)|string 객체|
 |12924|[ 숫자의 표현 ](https://programmers.co.kr/learn/courses/30/lessons/12924) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12924numsum.py)|수열 |
+|17680|[ [1차] 캐시 ](https://programmers.co.kr/learn/courses/30/lessons/17680) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17680cache.py)| for문 |
+|49994|[ 방문 길이 ](https://programmers.co.kr/learn/courses/30/lessons/49994) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/49994visitline.py)| 집합 set() |
