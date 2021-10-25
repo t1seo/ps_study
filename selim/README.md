@@ -8,6 +8,7 @@
 |81302 |[카카오 인턴십 : 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/81302kakao2021.py)| 완전탐색|
 |||||
 |22233 |[가희와 키워드](https://www.acmicpc.net/problem/22233) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/22233.py)| 브루트포스 |
+|87377 |[10주차차_교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87377starins.py)| 브루트포스 |
 |||||
 |1844|[게임 맵 최단거리](https://www.acmicpc.net/problem/2206) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2206.py)|BFS|
 |2206|[벽 부수고 이동하기](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) | 어려움!! |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/1844gamemap.py)|BFS|
