@@ -63,6 +63,7 @@
 |12939|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12939maxminstr.py) | 파싱|
 |60058|[괄호변환 KAKAO](https://programmers.co.kr/learn/courses/30/lessons/60058) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/60058paranchg.py) | 파싱|
 |17677|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
+|72411|[KAKAO 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/72411menu.py) | Counter & Combinations |
 |||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
