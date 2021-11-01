@@ -61,8 +61,10 @@
 |10953|[A+B-6](https://www.acmicpc.net/problem/10953)|쉬움 | [풀이](acmicpc.net/problem/10953) | 파싱|
 |49993|[튜플](https://programmers.co.kr/learn/courses/30/lessons/49993) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/49993skilltrees.py) | 파싱|
 |12939|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12939maxminstr.py) | 파싱|
-|60058|[괄호변환 KAKAO](https://programmers.co.kr/learn/courses/30/lessons/60058) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/60058paranchg.py) | 파싱|
-|17677|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
+|60058|[KAKAO 괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/60058paranchg.py) | 파싱|
+|17686|[KAKAO [3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17686filename.py) | 파싱|
+|||||
+|17677|[KAKAO [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
 |72411|[KAKAO 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/72411menu.py) | Counter & Combinations |
 |42890|[KAKAO 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42890candkey.py) | Combinations |
 |72412|[KAKAO 순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | lv.2 | [풀이 효율성](https://github.com/shl13/ps_study/blob/master/selim/level2/72412fast.py) | Combinations |
