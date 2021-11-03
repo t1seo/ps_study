@@ -28,6 +28,7 @@
 |84512| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/84512aeiou.py)|버킷|
 |||||
 |12899| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12899nation124.py)|재귀|
+|12945| [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12945fibonacci.py)|재귀|
 |16198 |[에너지 모으기](https://www.acmicpc.net/problem/16198) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/16198.py)| 완전탐색|
 |||||
 |42576| [   완주하지 못한 선수    ](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42576playerhash.py)|해시|
