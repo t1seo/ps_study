@@ -23,11 +23,13 @@
 |42584|[주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42584stock.py)|스택/큐|
 |12973|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12973pair.py)|스택/큐|
 |2304|[창고 다각형](https://www.acmicpc.net/problem/2304) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2304.py)|스택/큐|
+|12909|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12909pararight.py)|스택/큐|
 |||||
 |12977| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12977making_prime.py)|버킷|
 |84512| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/84512aeiou.py)|버킷|
 |||||
 |12899| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12899nation124.py)|재귀|
+|12945| [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12945fibonacci.py)|재귀|
 |16198 |[에너지 모으기](https://www.acmicpc.net/problem/16198) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/16198.py)| 완전탐색|
 |||||
 |42576| [   완주하지 못한 선수    ](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42576playerhash.py)|해시|
@@ -40,7 +42,8 @@
 |42862|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42862ptshirt.py)|그리디|
 |42885|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42885)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42885boat.py)|그리디|
 |12913|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12913land.py)|그리디|
-|43105|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3)| lv.3 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level3/43105tri.py)|그리디|
+|43105|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3)| lv.3 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level3/43105tri.py)|그리디|
+|68645|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645?language=python3)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/68645snail.py)|그리디 비슷|
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
 |70128|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/70128axb.py)|lambda|
@@ -54,6 +57,7 @@
 |9465|[스티커](https://www.acmicpc.net/problem/9465) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/9465.py)|다이나믹 프로그래밍|
 |1915|[가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | 어려움!! | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1915.py)|다이나믹 프로그래밍|
 |2491|[수열](https://www.acmicpc.net/problem/2491) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2491.py)|다이나믹 프로그래밍|
+|12978|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12978delivery.py)|다이나믹 프로그래밍(다익스트라)|
 |||||
 |5430|[AC](https://www.acmicpc.net/problem/5430) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/5430.py) | 파싱|
 |64065|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/64065tuple.py) | 파싱|
@@ -63,6 +67,7 @@
 |12939|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12939maxminstr.py) | 파싱|
 |60058|[KAKAO 괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/60058paranchg.py) | 파싱|
 |17686|[KAKAO [3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17686filename.py) | 파싱|
+|42888|[KAKAO 오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42888chat.py) | 파싱|
 |||||
 |17677|[KAKAO [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
 |72411|[KAKAO 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/72411menu.py) | Counter & Combinations |
