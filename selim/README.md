@@ -7,12 +7,14 @@
 |42842 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42842carpet.py)| 완전탐색|
 |81302 |[카카오 인턴십 : 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/81302kakao2021.py)| 완전탐색|
 |87946 |[12주차 위클리 : 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87946dungeon.py)| 완전탐색|
+|86971 |[위클리 : 전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/86971tree.py)| 완전탐색 & 트리|
 |||||
 |22233 |[가희와 키워드](https://www.acmicpc.net/problem/22233) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/22233.py)| 브루트포스 |
 |87377 |[10주차차_교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87377starins.py)| 브루트포스 |
 |||||
 |1844|[게임 맵 최단거리](https://www.acmicpc.net/problem/2206) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2206.py)|BFS|
 |2206|[벽 부수고 이동하기](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) | 어려움!! |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/1844gamemap.py)|BFS|
+|14226|[이모티콘](https://www.acmicpc.net/problem/14226) | hard |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/14226.py)|BFS|
 |||||
 |42586|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)| lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42586progresses.py)|스택/큐|
 |6198|[옥상정원 꾸미기](https://www.acmicpc.net/problem/6198) |어려움 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/6198.py)|스택/큐|
@@ -68,12 +70,15 @@
 |60058|[KAKAO 괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/60058paranchg.py) | 파싱|
 |17686|[KAKAO [3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17686filename.py) | 파싱|
 |42888|[KAKAO 오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42888chat.py) | 파싱|
+|17679|[KAKAO [1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17679kakaoblock.py) | 파싱|
+
 |||||
 |17677|[KAKAO [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
 |72411|[KAKAO 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/72411menu.py) | Counter & Combinations |
 |42890|[KAKAO 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42890candkey.py) | Combinations |
 |72412|[KAKAO 순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | lv.2 | [풀이 효율성](https://github.com/shl13/ps_study/blob/master/selim/level2/72412fast.py) | Combinations |
 ||[KAKAO 순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | lv.2 | [풀이2 느림](https://github.com/shl13/ps_study/blob/master/selim/level2/72412slow.py) | Combinations |
+|12911|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | lv.2 | [풀이2 느림](https://github.com/shl13/ps_study/blob/master/selim/level2/12911binfunc.py) | counter & Binary |
 |||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
