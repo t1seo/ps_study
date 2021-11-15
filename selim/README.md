@@ -8,6 +8,7 @@
 |81302 |[카카오 인턴십 : 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/81302kakao2021.py)| 완전탐색|
 |87946 |[12주차 위클리 : 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87946dungeon.py)| 완전탐색|
 |86971 |[위클리 : 전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/86971tree.py)| 완전탐색 & 트리|
+|68936 |[쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/68936zip.py)| 완전탐색 & 쿼드트리|
 |||||
 |22233 |[가희와 키워드](https://www.acmicpc.net/problem/22233) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/22233.py)| 브루트포스 |
 |87377 |[10주차차_교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87377starins.py)| 브루트포스 |
