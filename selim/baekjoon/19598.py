@@ -27,6 +27,21 @@ for i in range(n):
 solution(numbers)
 
 
+# 12/3일에 또 푼 문제. 시간초과 났다. 
+# def solution(n, arr):
+# 	rooms = []
+# 	for i in range(n):
+# 		if len(rooms) == 0:
+# 			rooms.append(arr[i][1]) # end time added 
+# 		else:
+# 			get_min_idx = rooms.index(min(rooms))
+# 			if rooms[get_min_idx] <= arr[i][0]:
+# 				rooms[get_min_idx] = arr[i][1]
+# 			else : 
+# 				rooms.append(arr[i][1])
+# 	print(len(rooms))
+# 	# print(n, arr)
+
 # 참고
 # https://jminie.tistory.com/7
 
