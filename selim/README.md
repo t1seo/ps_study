@@ -47,7 +47,9 @@
 |12913|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12913land.py)|그리디|
 |43105|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3)| lv.3 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level3/43105tri.py)|그리디|
 |68645|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645?language=python3)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/68645snail.py)|그리디 비슷|
+|||||
 |1202|[ 보석 도둑 ](acmicpc.net/problem/1202)| 어려움 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1202.py)|그리디 & 우선순위 큐 / 힙 |
+|1655|[ 가운데를 말해요 ](acmicpc.net/problem/1655)| 중간 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1655.py)| heap 힙 |
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
 |70128|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/70128axb.py)|lambda|
