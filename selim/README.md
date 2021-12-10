@@ -8,6 +8,7 @@
 |81302 |[카카오 인턴십 : 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/81302kakao2021.py)| 완전탐색|
 |87946 |[12주차 위클리 : 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87946dungeon.py)| 완전탐색|
 |86971 |[위클리 : 전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/86971tree.py)| 완전탐색 & 트리|
+|68936 |[쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/68936zip.py)| 완전탐색 & 쿼드트리|
 |||||
 |22233 |[가희와 키워드](https://www.acmicpc.net/problem/22233) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/22233.py)| 브루트포스 |
 |87377 |[10주차차_교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87377starins.py)| 브루트포스 |
@@ -46,6 +47,7 @@
 |12913|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12913land.py)|그리디|
 |43105|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3)| lv.3 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level3/43105tri.py)|그리디|
 |68645|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645?language=python3)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/68645snail.py)|그리디 비슷|
+|1202|[ 보석 도둑 ](acmicpc.net/problem/1202)| 어려움 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1202.py)|그리디 & 우선순위 큐 / 힙 |
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
 |70128|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/70128axb.py)|lambda|
@@ -60,6 +62,7 @@
 |1915|[가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | 어려움!! | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1915.py)|다이나믹 프로그래밍|
 |2491|[수열](https://www.acmicpc.net/problem/2491) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2491.py)|다이나믹 프로그래밍|
 |12978|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12978delivery.py)|다이나믹 프로그래밍(다익스트라)|
+|11060|[점프 점프](https://www.acmicpc.net/problem/11060) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/11060.py)|다이나믹 프로그래밍|
 |||||
 |5430|[AC](https://www.acmicpc.net/problem/5430) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/5430.py) | 파싱|
 |64065|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/64065tuple.py) | 파싱|
@@ -71,7 +74,7 @@
 |17686|[KAKAO [3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17686filename.py) | 파싱|
 |42888|[KAKAO 오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42888chat.py) | 파싱|
 |17679|[KAKAO [1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17679kakaoblock.py) | 파싱|
-
+|67256 |[카카오 인턴십 : 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256#) |lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/67256keypad.py)| 탐색 & 파싱|
 |||||
 |17677|[KAKAO [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
 |72411|[KAKAO 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/72411menu.py) | Counter & Combinations |

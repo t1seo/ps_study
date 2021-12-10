@@ -5,22 +5,33 @@
 citations	return
 [3, 0, 6, 1, 5]	3
 """
-def solution(citations):
-    answer = 0
-    citations.sort(reverse=True) # [6,5,3,1,0]
-    lenn = len(citations)
-    for i in range(lenn):
-        if citations[i] < i+1: # 1, 4같은 경우 -> 그 전 인덱스를 돌려준다 
-            answer = i
+def solution(citations): #2021-12-10
+    citations.sort()
+    maxx = min(len(citations), citations[-1])
+    cnt = 0
+    for i in range(len(citations)):
+        if citations[i] >= maxx:
+            cnt = maxx
             break
-        else:
-            continue
-    if answer == 0: # 만약 다 거치고 하나도 안 바뀌었다면 [42,24] 같은 케이스가 있을 수도 
-        for i in range(lenn): 
-            if (citations[i] < lenn): # 이 경우에는 lenn 보다 모두 큰지 확인 
-                return answer
-        answer = lenn # 맞다면 배열 길이를 답으로 한다 
-    return answer
+        maxx -= 1
+    return cnt
+
+# def solution(citations):
+#     answer = 0
+#     citations.sort(reverse=True) # [6,5,3,1,0]
+#     lenn = len(citations)
+#     for i in range(lenn):
+#         if citations[i] < i+1: # 1, 4같은 경우 -> 그 전 인덱스를 돌려준다 
+#             answer = i
+#             break
+#         else:
+#             continue
+#     if answer == 0: # 만약 다 거치고 하나도 안 바뀌었다면 [42,24] 같은 케이스가 있을 수도 
+#         for i in range(lenn): 
+#             if (citations[i] < lenn): # 이 경우에는 lenn 보다 모두 큰지 확인 
+#                 return answer
+#         answer = lenn # 맞다면 배열 길이를 답으로 한다 
+#     return answer
 
 """모범코드 천재인듯?!
 def solution(citations):

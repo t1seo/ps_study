@@ -1,7 +1,48 @@
 # https://programmers.co.kr/learn/courses/30/lessons/68645
 # 월간 코드 챌린지 시즌1 > 삼각 달팽이 
 
-def solution(n):
+# https://programmers.co.kr/learn/courses/30/lessons/68645
+# 삼각 달팽이 
+
+def solution(n): #2021-12-10
+    bucket = []
+    for i in range(n):
+        bucket.append([])
+        for j in range(i+1):
+            bucket[i].append(0)
+    y, x = 0, 0
+    cnt = 0
+    maxx = n-1
+    vector = 0 # 0~2 
+    for i in range(1, int(n * (n+1)/ 2)+1):
+        if vector == 0:
+            bucket[y][x] = i
+            cnt += 1
+            if cnt == maxx:
+                cnt = 0
+                vector = 1
+            y += 1
+        elif vector == 1:
+            bucket[y][x] = i
+            cnt += 1
+            if cnt == maxx:
+                cnt = 0
+                vector = 2
+            x += 1
+        elif vector == 2:
+            bucket[y][x] = i
+            cnt += 1
+            if cnt == maxx:
+                y += 1
+                cnt = 0
+                vector = 0
+                maxx -= 3
+                continue 
+            y -= 1 
+            x -= 1
+    return (sum(bucket, []))
+
+def solution1(n):
     # result = []
     # for i in range(0, n):
     #     result.append([])
