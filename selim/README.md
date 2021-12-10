@@ -81,7 +81,9 @@
 |42890|[KAKAO 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42890candkey.py) | Combinations |
 |72412|[KAKAO 순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | lv.2 | [풀이 효율성](https://github.com/shl13/ps_study/blob/master/selim/level2/72412fast.py) | Combinations |
 ||[KAKAO 순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | lv.2 | [풀이2 느림](https://github.com/shl13/ps_study/blob/master/selim/level2/72412slow.py) | Combinations |
-|12911|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | lv.2 | [풀이2 느림](https://github.com/shl13/ps_study/blob/master/selim/level2/12911binfunc.py) | counter & Binary |
+|12911|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12911binfunc.py) | counter & Binary |
+|||||
+|67258|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/67258gemshop.py) | Two Pointer &투포인터 탐색 &최단구간 |
 |||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
