@@ -17,3 +17,26 @@ def solution(orders, course):
         sorted_cand = Counter(candidates).most_common()
         answer += [menu for menu, cnt in sorted_cand if cnt >1 and cnt == sorted_cand[0][1]]
     return (sorted(answer))
+
+
+def solution1(orders, course): # 2021-12-10
+    result = []
+    combLst = []
+    course.sort()
+    
+    for i in course:
+        combLst = []
+        for order in orders:
+            a = list(order)
+            a.sort()
+            order = ''.join(a)
+            if len(order) >= i:
+                combLst.extend(combinations(order, i))
+        c = Counter(combLst).most_common()
+        # print(c)
+        for j, value in c:
+            if value == c[0][1] and value >= 2:
+                result.append(j)
+    result = [''.join(x) for x in result ]
+    result.sort()
+    return result
