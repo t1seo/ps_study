@@ -24,6 +24,31 @@ def solution(dirs):
         y = tmpy
     return answer
 
+def solution1(dirs): # 2021-12-17
+    signs = {'U':(1,0), 'D':(-1,0), 'R':(0,1), 'L':(0,-1) } # y, x
+    y, x = 0, 0
+    visited = {}
+    for c in dirs:
+        oldy = y
+        oldx = x
+        if (signs[c][0] + y < -5 or signs[c][0] + y > 5):
+            continue
+        if (signs[c][1] + x < -5 or signs[c][1] + x > 5):
+            continue
+        y = signs[c][0] + y
+        x = signs[c][1] + x
+        print(y, x)
+        newkey = str((y,x)) + str((oldy,oldx))
+        newkey2 = str((oldy,oldx)) + str((y,x))
+        if newkey in visited.keys():
+            continue
+        else:
+            visited[newkey] = 1
+            visited[newkey2] = 1
+    # print(visited, len(visited))
+    return (int(len(visited) / 2))
+
+
 """모범코드 
 visited를 아예 set()로 설정해서 if in 문이 없다 
 """

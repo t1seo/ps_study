@@ -32,3 +32,40 @@ def solution(relations):
             if(len(aset & bset) == len(uniqueness[i])):
                 minimal.discard(uniqueness[j])
     return (len(minimal))
+
+
+def solution1(relation):
+    # 1.키
+    keyLst = []
+    colLst = []
+    for i in range(len(relation[0])):
+        keyLst.append(i)
+    for j in range(1, len(relation[0])+1):
+        for i in combinations(keyLst, j):
+            colLst.append(i)
+    print(colLst)
+    candLst = []
+    for cols in colLst:
+        tmpset = set()
+        for rel in relation:
+            tmp = ""
+            for c in cols:
+                tmp += rel[c]
+            tmpset.add(tmp)
+        # print(tmpset)
+        if len(relation) == len(tmpset):
+            candLst.append(cols)
+    # print(candLst)
+    oxLst = [1 for _ in range(len(candLst))]
+    # print(oxLst)
+    for i in range(0, len(candLst)):
+        if oxLst[i] == 0:
+            continue 
+        for j in range(i+1, len(candLst)):
+            if oxLst[j] == 1 and set(candLst[i]).intersection(set(candLst[j])) == set(candLst[i]):
+                oxLst[j] = 0
+            elif oxLst[j] == 1 and set(candLst[i]).intersection(set(candLst[j])) == set(candLst[j]):
+                oxLst[j] = 0
+    print(oxLst)
+    return sum(oxLst)
+    
