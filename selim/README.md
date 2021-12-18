@@ -32,6 +32,7 @@
 |84512| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/84512aeiou.py)|버킷|
 |||||
 |2606|[바이러스](https://www.acmicpc.net/problem/2606) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2606.py)|union find / 경로압축 |
+|1717|[집합의 표현](https://www.acmicpc.net/problem/1717) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1717.py)|union find / 경로압축 |
 |||||
 |12899| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12899nation124.py)|재귀|
 |12945| [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12945fibonacci.py)|재귀|
