@@ -9,6 +9,7 @@
 |87946 |[12주차 위클리 : 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87946dungeon.py)| 완전탐색|
 |86971 |[위클리 : 전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/86971tree.py)| 완전탐색 & 트리|
 |68936 |[쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/68936zip.py)| 완전탐색 & 쿼드트리|
+|1991 |[트리 순회](https://www.acmicpc.net/problem/1991) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1991.py)| 트리 순회 /tree |
 |||||
 |22233 |[가희와 키워드](https://www.acmicpc.net/problem/22233) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/22233.py)| 브루트포스 |
 |87377 |[10주차차_교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87377starins.py)| 브루트포스 |
@@ -31,6 +32,9 @@
 |12977| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)| lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/12977making_prime.py)|버킷|
 |84512| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/84512aeiou.py)|버킷|
 |||||
+|2606|[바이러스](https://www.acmicpc.net/problem/2606) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2606.py)|union find / 경로압축 |
+|1717|[집합의 표현](https://www.acmicpc.net/problem/1717) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1717.py)|union find / 경로압축 |
+|||||
 |12899| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12899nation124.py)|재귀|
 |12945| [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12945fibonacci.py)|재귀|
 |16198 |[에너지 모으기](https://www.acmicpc.net/problem/16198) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/16198.py)| 완전탐색|
@@ -47,7 +51,9 @@
 |12913|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12913land.py)|그리디|
 |43105|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3)| lv.3 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level3/43105tri.py)|그리디|
 |68645|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645?language=python3)| lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/68645snail.py)|그리디 비슷|
+|||||
 |1202|[ 보석 도둑 ](acmicpc.net/problem/1202)| 어려움 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1202.py)|그리디 & 우선순위 큐 / 힙 |
+|1655|[ 가운데를 말해요 ](acmicpc.net/problem/1655)| 중간 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1655.py)| heap 힙 |
 |||||
 |42748|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42748kthnum.py)|lambda|
 |70128|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/70128axb.py)|lambda|
@@ -81,7 +87,9 @@
 |42890|[KAKAO 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42890candkey.py) | Combinations |
 |72412|[KAKAO 순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | lv.2 | [풀이 효율성](https://github.com/shl13/ps_study/blob/master/selim/level2/72412fast.py) | Combinations |
 ||[KAKAO 순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | lv.2 | [풀이2 느림](https://github.com/shl13/ps_study/blob/master/selim/level2/72412slow.py) | Combinations |
-|12911|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | lv.2 | [풀이2 느림](https://github.com/shl13/ps_study/blob/master/selim/level2/12911binfunc.py) | counter & Binary |
+|12911|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12911binfunc.py) | counter & Binary |
+|||||
+|67258|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/67258gemshop.py) | Two Pointer &투포인터 탐색 &최단구간 |
 |||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
