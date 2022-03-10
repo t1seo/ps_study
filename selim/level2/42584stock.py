@@ -29,3 +29,21 @@ def solution(prices):
                 answer[i] += 1
                 break
     return answer
+
+
+
+# def practice1(prices):
+# 	que = deque()
+# 	lenn = len(prices) # 5
+# 	timee = [0] * lenn 
+# 	for i in range(lenn):
+# 		if len(que) == 0:
+# 			que.append((prices[i], i))
+# 		elif que[-1][0] <= prices[i]: 
+# 			que.append((prices[i], i))
+# 		else : 
+# 			while que[-1][0] > prices[i]:
+# 				rc = que.pop()
+# 				print(rc)
+# 				que.append((prices[i], i))
+# 		print(que)
