@@ -38,6 +38,7 @@
 |12899| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12899nation124.py)|재귀|
 |12945| [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12945fibonacci.py)|재귀|
 |16198 |[에너지 모으기](https://www.acmicpc.net/problem/16198) | 쉬움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/16198.py)| 완전탐색|
+|1074| [ Z ](https://www.acmicpc.net/problem/1074) | medium |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1074.py)|재귀|
 |||||
 |42576| [   완주하지 못한 선수    ](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/42576playerhash.py)|해시|
 |42577| [   전화번호 목록    ](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42577hashphone.py)|해시|
@@ -104,6 +105,7 @@
 |1051|[숫자 정사각형](https://www.acmicpc.net/problem/1051) |쉬움| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1051.py)||
 |12985|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12986tourn.py)|비트 연산|
 |12981|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=python3) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12981wordrelay.py)|for문|
+|14889|[스타트와 링크](https://acmicpc.net/problem/14889) |medium| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/14889.py)|for문|
 |12953|[N개의 최소공배수 LCM](https://programmers.co.kr/learn/courses/30/lessons/12953) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12953lcm.py)|최소공배수 구하기|
 |12951|[ JadenCase 문자열 만들기 ](https://programmers.co.kr/learn/courses/30/lessons/12951) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12951jadencase.py)|string 객체|
 |12924|[ 숫자의 표현 ](https://programmers.co.kr/learn/courses/30/lessons/12924) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12924numsum.py)|수열 |
