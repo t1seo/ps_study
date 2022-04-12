@@ -66,6 +66,7 @@
 |12941|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941#) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12941minsum.py)|정렬|
 |43238|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238#) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level3/43238binarysearch.py)|정렬 & 이분탐색|
 |12015|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/12015.py)|이분탐색|
+|16401|[과자 나눠주기](https://www.acmicpc.net/problem/16401) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/16401.py)|이분탐색|
 |||||
 |3190|[뱀](https://www.acmicpc.net/problem/3190) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/3190.py)|시뮬레이션|
 |2565|[전깃줄](https://www.acmicpc.net/problem/2565) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2565.py)|다이나믹 프로그래밍|
