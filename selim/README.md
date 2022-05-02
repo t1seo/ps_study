@@ -18,6 +18,7 @@
 |1844|[게임 맵 최단거리](https://www.acmicpc.net/problem/2206) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2206.py)|BFS|
 |2206|[벽 부수고 이동하기](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) | 어려움!! |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/1844gamemap.py)|BFS|
 |14226|[이모티콘](https://www.acmicpc.net/problem/14226) | hard |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/14226.py)|BFS|
+|1697|[숨바꼭질](https://www.acmicpc.net/problem/1697) | mid |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1697.py)|BFS|
 |||||
 |42586|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)| lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42586progresses.py)|스택/큐|
 |6198|[옥상정원 꾸미기](https://www.acmicpc.net/problem/6198) |어려움 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/6198.py)|스택/큐|
