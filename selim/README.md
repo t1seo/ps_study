@@ -4,6 +4,7 @@
 | :-: | :---: | :--------: | :----: | :--: |
 | 43165 |[타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165#qna) |lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/43165dfs.py)| DFS(완전탐색)|
 |42839 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42839dfsprime.py)| DFS(완전탐색)|
+|92343 |[KAKAO 양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343) | lv.3 | [풀이](https://github.com/seohl16/ps_study/blob/master/selim/level3/92343sheepwolf.py)| DFS & backtracking |
 |14888 |[연산자 끼워넣기](https://acmicpc.net/problem/14888) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/14888.py)| DFS(완전탐색)|
 |42842 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42842carpet.py)| 완전탐색|
 |81302 |[카카오 인턴십 : 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/81302kakao2021.py)| 완전탐색|
@@ -97,8 +98,7 @@
 |12911|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12911binfunc.py) | counter & Binary |
 |||||
 |67258|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/67258gemshop.py) | Two Pointer &투포인터 탐색 &최단구간 
-|2118|[두 개의 탑](https://www.acmicpc.net/problem/2118) | mid | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2118.py) | Two Pointer &투포인터 탐색 &최단구간 
-|
+|2118|[두 개의 탑](https://www.acmicpc.net/problem/2118) | mid | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2118.py) | Two Pointer &투포인터 탐색 &최단구간|
 |||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
