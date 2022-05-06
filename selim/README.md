@@ -4,6 +4,8 @@
 | :-: | :---: | :--------: | :----: | :--: |
 | 43165 |[타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165#qna) |lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/43165dfs.py)| DFS(완전탐색)|
 |42839 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42839dfsprime.py)| DFS(완전탐색)|
+|92343 |[KAKAO 양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343) | lv.3 | [풀이](https://github.com/seohl16/ps_study/blob/master/selim/level3/92343sheepwolf.py)| DFS & backtracking |
+|14888 |[연산자 끼워넣기](https://acmicpc.net/problem/14888) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/14888.py)| DFS(완전탐색)|
 |42842 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42842carpet.py)| 완전탐색|
 |81302 |[카카오 인턴십 : 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/81302kakao2021.py)| 완전탐색|
 |87946 |[12주차 위클리 : 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87946dungeon.py)| 완전탐색|
@@ -17,6 +19,7 @@
 |1844|[게임 맵 최단거리](https://www.acmicpc.net/problem/2206) | lv.2 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2206.py)|BFS|
 |2206|[벽 부수고 이동하기](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) | 어려움!! |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/1844gamemap.py)|BFS|
 |14226|[이모티콘](https://www.acmicpc.net/problem/14226) | hard |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/14226.py)|BFS|
+|1697|[숨바꼭질](https://www.acmicpc.net/problem/1697) | mid |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1697.py)|BFS|
 |||||
 |42586|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)| lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42586progresses.py)|스택/큐|
 |6198|[옥상정원 꾸미기](https://www.acmicpc.net/problem/6198) |어려움 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/6198.py)|스택/큐|
@@ -63,6 +66,9 @@
 |81301|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/68644picktwo.py)|정렬|
 |42747|[H-Index 과학논문지수 ](https://programmers.co.kr/learn/courses/30/lessons/42747#) | lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42747h_index.py)|정렬|
 |12941|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941#) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12941minsum.py)|정렬|
+|43238|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238#) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level3/43238binarysearch.py)|정렬 & 이분탐색|
+|12015|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/12015.py)|이분탐색|
+|16401|[과자 나눠주기](https://www.acmicpc.net/problem/16401) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/16401.py)|이분탐색|
 |||||
 |3190|[뱀](https://www.acmicpc.net/problem/3190) | 중간 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/3190.py)|시뮬레이션|
 |2565|[전깃줄](https://www.acmicpc.net/problem/2565) | 어려움 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2565.py)|다이나믹 프로그래밍|
@@ -91,7 +97,8 @@
 ||[KAKAO 순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | lv.2 | [풀이2 느림](https://github.com/shl13/ps_study/blob/master/selim/level2/72412slow.py) | Combinations |
 |12911|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/12911binfunc.py) | counter & Binary |
 |||||
-|67258|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/67258gemshop.py) | Two Pointer &투포인터 탐색 &최단구간 |
+|67258|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/67258gemshop.py) | Two Pointer &투포인터 탐색 &최단구간 
+|2118|[두 개의 탑](https://www.acmicpc.net/problem/2118) | mid | [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/2118.py) | Two Pointer &투포인터 탐색 &최단구간|
 |||||
 |1845|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845?language=python3) |lv.1 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/1845ponkemon.py)||
 |76501|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level1/76501signs.py)
