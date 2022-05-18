@@ -90,6 +90,7 @@
 |42888|[KAKAO 오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42888chat.py) | 파싱|
 |17679|[KAKAO [1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17679kakaoblock.py) | 파싱|
 |67256 |[카카오 인턴십 : 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256#) |lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/67256keypad.py)| 탐색 & 파싱|
+|77485 |[행렬 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/77485rotate.py)| 탐색 & 파싱|
 |||||
 |17677|[KAKAO [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
 |72411|[KAKAO 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/72411menu.py) | Counter & Combinations |
