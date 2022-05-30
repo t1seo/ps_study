@@ -6,6 +6,7 @@
 |42839 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42839dfsprime.py)| DFS(완전탐색)|
 |92343 |[KAKAO 양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343) | lv.3 | [풀이](https://github.com/seohl16/ps_study/blob/master/selim/level3/92343sheepwolf.py)| DFS & backtracking |
 |14888 |[연산자 끼워넣기](https://acmicpc.net/problem/14888) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/14888.py)| DFS(완전탐색)|
+|13023 |[연산자 끼워넣기](https://acmicpc.net/problem/13023) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/13023.py)| DFS(완전탐색)|
 |42842 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42842carpet.py)| 완전탐색|
 |81302 |[카카오 인턴십 : 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/81302kakao2021.py)| 완전탐색|
 |87946 |[12주차 위클리 : 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87946dungeon.py)| 완전탐색|
