@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/42577
+# 해시
 def solution(phone_book):
     phone_book = sorted(phone_book, key=len)
     numDict = {phone_book[0]:1}
