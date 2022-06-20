@@ -6,6 +6,7 @@
 |42839 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42839dfsprime.py)| DFS(완전탐색)|
 |92343 |[KAKAO 양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343) | lv.3 | [풀이](https://github.com/seohl16/ps_study/blob/master/selim/level3/92343sheepwolf.py)| DFS & backtracking |
 |14888 |[연산자 끼워넣기](https://acmicpc.net/problem/14888) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/14888.py)| DFS(완전탐색)|
+|13023 |[연산자 끼워넣기](https://acmicpc.net/problem/13023) |mid| [풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/13023.py)| DFS(완전탐색)|
 |42842 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42842carpet.py)| 완전탐색|
 |81302 |[카카오 인턴십 : 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/81302kakao2021.py)| 완전탐색|
 |87946 |[12주차 위클리 : 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/87946dungeon.py)| 완전탐색|
@@ -20,6 +21,7 @@
 |2206|[벽 부수고 이동하기](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) | 어려움!! |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/1844gamemap.py)|BFS|
 |14226|[이모티콘](https://www.acmicpc.net/problem/14226) | hard |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/14226.py)|BFS|
 |1697|[숨바꼭질](https://www.acmicpc.net/problem/1697) | mid |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/1697.py)|BFS|
+|49189|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189?language=python3) | lv.3 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/level3/49189graphnode.py)|BFS & Graph그래프|
 |||||
 |42586|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)| lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42586progresses.py)|스택/큐|
 |6198|[옥상정원 꾸미기](https://www.acmicpc.net/problem/6198) |어려움 |[풀이](https://github.com/shl13/ps_study/blob/master/selim/baekjoon/6198.py)|스택/큐|
@@ -89,6 +91,7 @@
 |42888|[KAKAO 오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/42888chat.py) | 파싱|
 |17679|[KAKAO [1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17679kakaoblock.py) | 파싱|
 |67256 |[카카오 인턴십 : 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256#) |lv.1| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/67256keypad.py)| 탐색 & 파싱|
+|77485 |[행렬 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485#) |lv.2| [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/77485rotate.py)| 탐색 & 파싱|
 |||||
 |17677|[KAKAO [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/17677counter.py) | Counter |
 |72411|[KAKAO 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | lv.2 | [풀이](https://github.com/shl13/ps_study/blob/master/selim/level2/72411menu.py) | Counter & Combinations |
