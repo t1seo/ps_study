@@ -3,7 +3,7 @@
 from math import factorial
 
 def solution(n, k): 
-    visited = [*range(1, n+1)]
+    visited = [*range(1, n+1)] # range함수를 이용해서 list 만드는 방법 
     lenn = n
     answer = []
     while visited: 
@@ -13,6 +13,7 @@ def solution(n, k):
         lenn -= 1
     return answer
 
+# 힌트 얻은 곳 : https://programmers.co.kr/questions/28488
 
 # def solution(n, k):
 #     answer = [0] * n
@@ -43,4 +44,4 @@ def solution(n, k):
 #     dfs(1)
 #     return answer
 
-# https://programmers.co.kr/questions/28488
+
